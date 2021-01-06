@@ -10,7 +10,7 @@ You can target a folder, and the scripts will convert any fuz file (also in subf
 Setup:
 Download convert_fuz_to_xwm.ps1 to a folder.
 create a subfolder (in the same root folder where you put convert_fuz_to_xwm.ps1) with the name "fuze".
-Download BmlFuzTools utilities from ttps://www.nexusmods.com/skyrim/mods/73100/ (download BmlFuzTools and extract the zip file. Copy *.exe files to "fuze" folder).
+Download BmlFuzTools utilities from https://www.nexusmods.com/skyrim/mods/73100/ (download BmlFuzTools and extract the zip file. Copy *.exe files to "fuze" folder).
 
 Usage:
 Start Powershell (works in Powershell 7 to on Windows).
