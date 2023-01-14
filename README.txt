@@ -6,7 +6,7 @@ Used for the Fallout sfx conversion kit. See project https://github.com/suglasp/
 
 A powershell script that can read a folder with fuz data files from Skyrim or Fallout,
 and extract in bulk the xwm data from all fuz files present in the folder.
-The fuz files of xwm files, are processed natively in Powershell.
+The fuz files or xwm files, are processed natively in Powershell.
 No 3rd party tools needed.
 
 Setup:
